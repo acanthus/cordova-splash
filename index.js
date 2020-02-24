@@ -49,6 +49,11 @@ var getPlatforms = function (projectName) {
       { name: 'Default-Landscape-2688h.png',   width: 2688, height: 1242 },
       { name: 'Default-1792h.png',             width: 828, height: 1792 },
       { name: 'Default-Landscape-1792h.png',   width: 1792, height: 828 },
+      { name: 'Default-2208h.png',             width: 1242, height: 2208 },
+      { name: 'Default-1334h.png',             width: 750, height: 1334 },
+      { name: 'Default-2436h.png',             width: 1125, height: 2436 },
+      { name: 'Default-1792h.png',             width: 828, height: 1792 },
+      { name: 'Default-2688h.png',             width: 1242, height: 2688 },
       // iPad
       { name: 'Default-Portrait~ipad.png',     width: 768,  height: 1024 },
       { name: 'Default-Portrait@2x~ipad.png',  width: 1536, height: 2048 },
